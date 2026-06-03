@@ -9,6 +9,9 @@
 💬 **Open to collaborations and new opportunities!**
 
 ---
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODA0NTIzNjIsIm5iZiI6MTc4MDQ1MjA2MiwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA2MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNjAzVDAyMDEwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI1MTE4NmQyNDE0NWZhZGZmNzAzZjYwZDkyYzNkMzQyNWIzMTdjZTRkZjczMThkYjJkZWIyNWIzMWZkYjE0MzYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.N1vawg3N1TdbQjM-4z5ed3sD8i8FHPbLofaihBsZ9-g"/>
+</p>
 
 ## 🛠️ My Skills
 
@@ -48,10 +51,7 @@ Here are some of my individual projects, organized in folders within my reposito
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JongasD&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JongasD&layout=compact&theme=radical" alt="Top Languages">
-</p>
+ ![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=jongasd&theme=transparent)
 
 ---
 
