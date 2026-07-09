@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jonas (JongasD)!
 
-> **Front-end Developer** passionate about building beautiful, functional, and user-centered interfaces.  
+> **Full-Stack Developer** passionate about building beautiful, functional, and user-centered interfaces.  
 > With over **4 years of experience**, I’m constantly learning, experimenting, and creating projects that blend design, usability, and clean code. 🚀
 
 📍 **Based in**: São Paulo, Brazil  
