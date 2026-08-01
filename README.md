@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jonas (JongasD)!
 
-> **Dev Backend Júnior** passionate about building beautiful, functional, and user-centered interfaces.  
+> **Junior Backend Developer** passionate about building beautiful, functional, and user-centered interfaces.  
 > With over **4 years of experience**, I’m constantly learning, experimenting, and creating projects that blend design, usability, and clean code. 🚀
 
 📍 **Based in**: São Paulo, Brazil  
@@ -35,13 +35,13 @@ Technologies and tools I use daily:
 Here are some of my individual projects, organized in folders within my repositories:
 
 - **[Projeto Revista](https://github.com/JongasD/projeto-revista)**  
-  📰 Projeto criado para o SESI voltado à divulgação de notícias e informações.
+  📰 A project built for SESI focused on publishing news and information.
 
 - **[fcondo-system](https://github.com/JongasD/fcondo-system)**  
-  🛒 Projeto pessoal de um sistema PDV para um aplicativo de minimercado de condomínio.
+  🛒 A personal POS system project for a condominium mini-market app.
 
 - **[techparts-eletronicos](https://github.com/JongasD/techparts-eletronicos)**  
-  🔌 Projeto do SENAI para gerenciamento de estoque de uma loja de eletrônicos.
+  🔌 A SENAI project for inventory management at an electronics store.
 
 > *All projects include live demos via GitHub Pages! Click the links to explore the code or try them out.*
 
@@ -71,7 +71,7 @@ Feel free to reach out on any of these platforms:
   <a href="https://www.linkedin.com/in/jonas-daniel-9904b63">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/carinbaaj">
+  <a href="https://instagram.com/dblz.jonas">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://discord.com/users/carinba">
@@ -97,7 +97,7 @@ Feel free to reach out on any of these platforms:
 
 ## 🌐 Portfolio
 
-🔗 **My Portfolio**: [Adicione aqui o link do seu portfólio]
+🔗 **My Portfolio**: [Add your portfolio link here]
 
 ---
 
