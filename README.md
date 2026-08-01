@@ -4,7 +4,7 @@
 > With over **4 years of experience**, I’m constantly learning, experimenting, and creating projects that blend design, usability, and clean code. 🚀
 
 📍 **Based in**: São Paulo, Brazil  
-🌐 **Linkedin**: [Jonas Daniel](www.linkedin.com/in/jonas-daniel-lopes)  
+🌐 **Linkedin**: [Jonas Daniel]("www.linkedin.com/in/jonas-daniel-lopes")
 ⏰ **Timezone**: UTC -03:00  
 💬 **Open to collaborations and new opportunities!**
 
