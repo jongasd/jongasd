@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jonas (JongasD)!
 
-> **Full-Stack Developer** passionate about building beautiful, functional, and user-centered interfaces.  
+> **Desenvolvedor Backend Júnior** passionate about building beautiful, functional, and user-centered interfaces.  
 > With over **4 years of experience**, I’m constantly learning, experimenting, and creating projects that blend design, usability, and clean code. 🚀
 
 📍 **Based in**: São Paulo, Brazil  
@@ -22,6 +22,10 @@ Technologies and tools I use daily:
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
 </p>
 
 ---
@@ -30,17 +34,14 @@ Technologies and tools I use daily:
 
 Here are some of my individual projects, organized in folders within my repositories:
 
-- **[Todo App](https://github.com/JongasD/Challenges-FrontEnd-Mentor/tree/main/todo-app)**  
-  ✅ A fully functional task manager with add, complete, filter, and clear features. Built with vanilla JavaScript and modern CSS.
+- **[Projeto Revista](https://github.com/JongasD/projeto-revista)**  
+  📰 Projeto criado para o SESI voltado à divulgação de notícias e informações.
 
-- **[Interactive Pricing Component](https://github.com/JongasD/Challenges-FrontEnd-Mentor/tree/main/interactive-pricing-component)**  
-  💳 A responsive pricing card with toggleable billing and plan selection. Focus on accessibility and smooth UX.
+- **[fcondo-system](https://github.com/JongasD/fcondo-system)**  
+  🛒 Projeto pessoal de um sistema PDV para um aplicativo de minimercado de condomínio.
 
-- **[Profile Card](https://github.com/JongasD/Projetos-Lopes/tree/main/profile-card)**  
-  👤 A sleek profile card with hover effects and subtle animations — perfect for personal portfolios.
-
-- **[Quiz App](https://github.com/JongasD/Projetos-Lopes/tree/main/quiz-app)**  
-  ❓ A dynamic quiz app with timer, scoring system, and instant feedback. Built with React and Vite.
+- **[techparts-eletronicos](https://github.com/JongasD/techparts-eletronicos)**  
+  🔌 Projeto do SENAI para gerenciamento de estoque de uma loja de eletrônicos.
 
 > *All projects include live demos via GitHub Pages! Click the links to explore the code or try them out.*
 
@@ -87,10 +88,16 @@ Feel free to reach out on any of these platforms:
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy"/>
   <img src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white" alt="Exercism"/>
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
 </p>
+
+---
+
+## 🌐 Portfolio
+
+🔗 **My Portfolio**: [Adicione aqui o link do seu portfólio]
 
 ---
 
