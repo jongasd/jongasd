@@ -68,7 +68,7 @@ I’m always open to collaboration, feedback, or just a friendly chat about tech
 Feel free to reach out on any of these platforms:
 
 <p align="center">
-  <a href="**www.linkedin.com/in/jonas-daniel-lopes**">
+  <a href="https://www.linkedin.com/in/jonas-daniel-lopes/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/dblz.jonas">
