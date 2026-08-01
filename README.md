@@ -4,7 +4,7 @@
 > With over **4 years of experience**, I’m constantly learning, experimenting, and creating projects that blend design, usability, and clean code. 🚀
 
 📍 **Based in**: São Paulo, Brazil  
-🌐 **Linkedin**: [Jonas Daniel](www.linkedin.com/in/jonas-daniel-lopes)  
+🌐 **Linkedin**: [Jonas Daniel]([www.linkedin.com/in/jonas-daniel-lopes](https://www.linkedin.com/in/jonas-daniel-lopes/))  
 ⏰ **Timezone**: UTC -03:00  
 💬 **Open to collaborations and new opportunities!**
 
@@ -68,7 +68,7 @@ I’m always open to collaboration, feedback, or just a friendly chat about tech
 Feel free to reach out on any of these platforms:
 
 <p align="center">
-  <a href="www.linkedin.com/in/jonas-daniel-lopes">
+  <a href="[www.linkedin.com/in/jonas-daniel-lopes](https://www.linkedin.com/in/jonas-daniel-lopes/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/dblz.jonas">
