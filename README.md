@@ -49,7 +49,7 @@ Here are some of my individual projects, organized in folders within my reposito
 
 ## 📊 GitHub Stats
 
- 
+ ![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=jongasd&theme=transparent)
 
 ---
 
