@@ -97,7 +97,7 @@ Feel free to reach out on any of these platforms:
 
 ## 🌐 Portfolio
 
-🔗 **My Portfolio**: [Add your portfolio link here]
+🔗 **My Portfolio**: [portifolio-2ctd.vercel.app](https://portifolio-2ctd.vercel.app)
 
 ---
 
